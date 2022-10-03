@@ -32,8 +32,6 @@ Before running the application first install the following dependencies:
 Run the streamlit application by usingthe below command:
 `streamlit run pychain.py`
 
-To view the files, clone the repository using "git clone <link>" in the [repository directory](https://github.com/Summi-Khanna/CHALLENGE-18.git)
-
 --- 
 
 ## Contributors
